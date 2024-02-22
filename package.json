@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/makerxstudio/color-console#readme",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "chalk": "^5.3.0"
   },
   "devDependencies": {
     "@makerx/ts-toolkit": "^4.0.0-beta.15",
