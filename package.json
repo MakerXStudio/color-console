@@ -1,6 +1,6 @@
 {
   "name": "@makerx/color-console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wraps console logs to output different log levels in appropriate colours",
   "scripts": {
     "audit": "better-npm-audit audit",
@@ -14,7 +14,7 @@
     "build:2-check-types": "tsc -p tsconfig.json",
     "build:3-build": "rollup -c --configPlugin typescript",
     "build:4-copy-pkg-json": "tstk copy-package-json -c",
-    "build:5-copy-readme": "copyfiles ./README.md ./dist",
+    "build:5-copy-readme": "copyfiles ./readme.md ./dist",
     "test": "vitest run",
     "test:coverage": "vitest run --coverage",
     "test:ci": "vitest run --coverage --reporter junit --reporter verbose --outputFile test-results.xml"
