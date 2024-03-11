@@ -40,7 +40,7 @@
     "@makerx/ts-toolkit": "^4.0.0-beta.15",
     "@makerx/eslint-config": "3.1.1",
     "@makerx/prettier-config": "2.0.1",
-    "typescript": "5.3.3",
+    "typescript": "5.4.2",
     "eslint": "8.56.0",
     "prettier": "3.2.5",
     "better-npm-audit": "3.7.3",
